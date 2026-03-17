@@ -1,0 +1,167 @@
+[
+  {
+    "component": {
+      "category": "psu",
+      "brand": "Seasonic",
+      "model": "FOCUS GX-1000",
+      "description": "Seasonic 1000W 풀모듈러 파워서플라이. 80+ Gold 인증, 10년 보증. RTX 4090 등 고전력 시스템 구성에 안정적으로 대응.",
+      "is_active": true
+    },
+    "spec": {
+      "wattage": 1000,
+      "efficiency_rating": "80+ Gold",
+      "modular_type": "Fully Modular",
+      "form_factor": "ATX",
+      "fan_size_mm": 120,
+      "fan_bearing": "Fluid Dynamic",
+      "atx_connectors": 1,
+      "eps_connectors": 2,
+      "pcie_connectors": 4,
+      "sata_connectors": 12,
+      "molex_connectors": 4,
+      "warranty_years": 10,
+      "zero_rpm_mode": true,
+      "active_pfc": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 180000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "psu",
+      "brand": "Corsair",
+      "model": "RM850x",
+      "description": "Corsair 850W 풀모듈러 파워서플라이. 80+ Gold 인증, 10년 보증. 저소음 설계와 안정적인 출력으로 고성능 시스템에 적합.",
+      "is_active": true
+    },
+    "spec": {
+      "wattage": 850,
+      "efficiency_rating": "80+ Gold",
+      "modular_type": "Fully Modular",
+      "form_factor": "ATX",
+      "fan_size_mm": 135,
+      "fan_bearing": "Rifle",
+      "atx_connectors": 1,
+      "eps_connectors": 2,
+      "pcie_connectors": 4,
+      "sata_connectors": 12,
+      "molex_connectors": 4,
+      "warranty_years": 10,
+      "zero_rpm_mode": true,
+      "active_pfc": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 160000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "psu",
+      "brand": "Seasonic",
+      "model": "FOCUS GX-750",
+      "description": "Seasonic 750W 풀모듈러 파워서플라이. 80+ Gold 인증, 10년 보증. RTX 4070급 이하 시스템에 안정적이고 효율적인 전력 공급.",
+      "is_active": true
+    },
+    "spec": {
+      "wattage": 750,
+      "efficiency_rating": "80+ Gold",
+      "modular_type": "Fully Modular",
+      "form_factor": "ATX",
+      "fan_size_mm": 120,
+      "fan_bearing": "Fluid Dynamic",
+      "atx_connectors": 1,
+      "eps_connectors": 2,
+      "pcie_connectors": 2,
+      "sata_connectors": 9,
+      "molex_connectors": 4,
+      "warranty_years": 10,
+      "zero_rpm_mode": true,
+      "active_pfc": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 130000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "psu",
+      "brand": "Cooler Master",
+      "model": "MWE Gold 650W",
+      "description": "Cooler Master 650W 세미모듈러 파워서플라이. 80+ Gold 인증으로 높은 효율성. 중급 시스템을 위한 합리적인 가격의 신뢰성 있는 PSU.",
+      "is_active": true
+    },
+    "spec": {
+      "wattage": 650,
+      "efficiency_rating": "80+ Gold",
+      "modular_type": "Semi-Modular",
+      "form_factor": "ATX",
+      "fan_size_mm": 120,
+      "fan_bearing": "HDB",
+      "atx_connectors": 1,
+      "eps_connectors": 1,
+      "pcie_connectors": 2,
+      "sata_connectors": 6,
+      "molex_connectors": 3,
+      "warranty_years": 5,
+      "zero_rpm_mode": false,
+      "active_pfc": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 90000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "psu",
+      "brand": "EVGA",
+      "model": "550 B5",
+      "description": "EVGA 550W 세미모듈러 파워서플라이. 80+ Bronze 인증. 입문형 또는 저전력 시스템을 위한 경제적인 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "wattage": 550,
+      "efficiency_rating": "80+ Bronze",
+      "modular_type": "Semi-Modular",
+      "form_factor": "ATX",
+      "fan_size_mm": 120,
+      "fan_bearing": "Double Ball Bearing",
+      "atx_connectors": 1,
+      "eps_connectors": 1,
+      "pcie_connectors": 2,
+      "sata_connectors": 6,
+      "molex_connectors": 3,
+      "warranty_years": 5,
+      "zero_rpm_mode": false,
+      "active_pfc": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 65000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

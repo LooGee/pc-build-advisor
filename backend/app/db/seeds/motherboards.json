@@ -1,0 +1,224 @@
+[
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "ASUS",
+      "model": "ROG STRIX Z790-E GAMING WIFI",
+      "description": "Intel Z790 칩셋 기반 ATX 폼팩터 고급형 메인보드. DDR5 지원, 5개의 M.2 슬롯, Wi-Fi 6E 내장. 오버클럭 및 고성능 빌드에 최적.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 7200,
+      "m2_slots": 5,
+      "sata_ports": 6,
+      "usb_rear_ports": 12,
+      "pcie_x16_slots": 2,
+      "pcie_x1_slots": 1,
+      "wifi": true,
+      "wifi_standard": "Wi-Fi 6E",
+      "bluetooth": "5.3",
+      "lan_speed_gbps": 2.5,
+      "audio_chipset": "Realtek ALC4082",
+      "rgb_support": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 580000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "MSI",
+      "model": "MAG B760M MORTAR WIFI",
+      "description": "Intel B760 칩셋 기반 Micro-ATX 메인보드. DDR5 지원과 Wi-Fi 6E 내장으로 합리적인 가격에 현대적인 기능 제공.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 192,
+      "max_memory_speed_mhz": 7600,
+      "m2_slots": 2,
+      "sata_ports": 4,
+      "usb_rear_ports": 9,
+      "pcie_x16_slots": 1,
+      "pcie_x1_slots": 2,
+      "wifi": true,
+      "wifi_standard": "Wi-Fi 6E",
+      "bluetooth": "5.3",
+      "lan_speed_gbps": 2.5,
+      "audio_chipset": "Realtek ALC897",
+      "rgb_support": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 220000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "Gigabyte",
+      "model": "B760M DS3H AX",
+      "description": "Intel B760 칩셋 기반 Micro-ATX 메인보드. DDR4 지원으로 기존 메모리 활용 가능. 가성비 빌드를 위한 합리적인 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 5333,
+      "m2_slots": 2,
+      "sata_ports": 4,
+      "usb_rear_ports": 8,
+      "pcie_x16_slots": 1,
+      "pcie_x1_slots": 2,
+      "wifi": false,
+      "wifi_standard": null,
+      "bluetooth": null,
+      "lan_speed_gbps": 1,
+      "audio_chipset": "Realtek ALC897",
+      "rgb_support": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 130000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "ASUS",
+      "model": "ROG CROSSHAIR X670E HERO",
+      "description": "AMD X670E 칩셋 기반 ATX 플래그십 메인보드. PCIe 5.0 풀 지원, DDR5, Wi-Fi 6E 내장. AMD 최고 사양 빌드를 위한 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "AM5",
+      "chipset": "X670E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 6400,
+      "m2_slots": 5,
+      "sata_ports": 6,
+      "usb_rear_ports": 13,
+      "pcie_x16_slots": 2,
+      "pcie_x1_slots": 1,
+      "wifi": true,
+      "wifi_standard": "Wi-Fi 6E",
+      "bluetooth": "5.3",
+      "lan_speed_gbps": 2.5,
+      "audio_chipset": "Realtek ALC4082",
+      "rgb_support": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 700000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "MSI",
+      "model": "MAG X670E TOMAHAWK WIFI",
+      "description": "AMD X670E 칩셋 기반 ATX 메인보드. PCIe 5.0 지원, DDR5, Wi-Fi 6E 내장으로 AMD Ryzen 7000 시리즈에 최적화된 가성비 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "AM5",
+      "chipset": "X670E",
+      "form_factor": "ATX",
+      "memory_type": "DDR5",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 6600,
+      "m2_slots": 4,
+      "sata_ports": 6,
+      "usb_rear_ports": 11,
+      "pcie_x16_slots": 2,
+      "pcie_x1_slots": 1,
+      "wifi": true,
+      "wifi_standard": "Wi-Fi 6E",
+      "bluetooth": "5.2",
+      "lan_speed_gbps": 2.5,
+      "audio_chipset": "Realtek ALC4080",
+      "rgb_support": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 380000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "motherboard",
+      "brand": "Gigabyte",
+      "model": "B550M DS3H",
+      "description": "AMD B550 칩셋 기반 Micro-ATX 메인보드. DDR4 지원, AM4 소켓. Ryzen 5000 시리즈와 호환되는 가성비 AM4 플랫폼 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro-ATX",
+      "memory_type": "DDR4",
+      "memory_slots": 4,
+      "max_memory_gb": 128,
+      "max_memory_speed_mhz": 5100,
+      "m2_slots": 2,
+      "sata_ports": 4,
+      "usb_rear_ports": 6,
+      "pcie_x16_slots": 1,
+      "pcie_x1_slots": 2,
+      "wifi": false,
+      "wifi_standard": null,
+      "bluetooth": null,
+      "lan_speed_gbps": 1,
+      "audio_chipset": "Realtek ALC887",
+      "rgb_support": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 110000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

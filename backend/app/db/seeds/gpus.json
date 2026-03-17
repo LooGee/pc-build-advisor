@@ -1,0 +1,282 @@
+[
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4090",
+      "description": "NVIDIA Ada Lovelace 아키텍처 기반 최상위 소비자용 GPU. 24GB GDDR6X 메모리와 DLSS 3.0 지원으로 최고의 4K 게이밍 및 AI 렌더링 성능 제공.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD102",
+      "vram_size_gb": 24,
+      "vram_type": "GDDR6X",
+      "tdp_w": 450,
+      "length_mm": 336,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 16,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 23000,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 1800000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4080 Super",
+      "description": "NVIDIA Ada Lovelace 기반 고성능 GPU. 16GB GDDR6X 메모리로 4K 게이밍과 크리에이터 작업에 탁월. DLSS 3.0 및 AV1 인코딩 지원.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD103",
+      "vram_size_gb": 16,
+      "vram_type": "GDDR6X",
+      "tdp_w": 320,
+      "length_mm": 310,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 16,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 18500,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 1100000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4070 Ti Super",
+      "description": "NVIDIA Ada Lovelace 기반 중상급 GPU. 16GB GDDR6X 메모리로 1440p 및 4K 게이밍에 적합. 탁월한 성능 대비 가격비.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD103",
+      "vram_size_gb": 16,
+      "vram_type": "GDDR6X",
+      "tdp_w": 285,
+      "length_mm": 285,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 16,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 16000,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 850000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4070 Super",
+      "description": "NVIDIA Ada Lovelace 기반 중급 GPU. 12GB GDDR6X 메모리. 1440p 게이밍에 최적화된 훌륭한 가성비 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD104",
+      "vram_size_gb": 12,
+      "vram_type": "GDDR6X",
+      "tdp_w": 220,
+      "length_mm": 260,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 16,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 13000,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 650000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4060 Ti",
+      "description": "NVIDIA Ada Lovelace 기반 중급 GPU. 8GB GDDR6 메모리. 1080p 고프레임 및 1440p 게이밍에 적합한 합리적인 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD106",
+      "vram_size_gb": 8,
+      "vram_type": "GDDR6",
+      "tdp_w": 160,
+      "length_mm": 240,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 8,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 10000,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 430000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4060",
+      "description": "NVIDIA Ada Lovelace 기반 입문급 GPU. 8GB GDDR6 메모리. 낮은 전력 소비와 DLSS 3.0으로 1080p 게이밍에 효율적.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "NVIDIA",
+      "gpu_chip": "AD107",
+      "vram_size_gb": 8,
+      "vram_type": "GDDR6",
+      "tdp_w": 115,
+      "length_mm": 220,
+      "power_connectors": "16-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 8,
+      "display_outputs": "3x DisplayPort 1.4a, 1x HDMI 2.1",
+      "tdmark_timespy_score": 7500,
+      "dlss_supported": true,
+      "dlss_version": "3.0",
+      "fsr_supported": false,
+      "fsr_version": null,
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 320000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "AMD",
+      "model": "Radeon RX 7900 XTX",
+      "description": "AMD RDNA 3 아키텍처 기반 최상위 소비자용 GPU. 24GB GDDR6 메모리와 FSR 3.0 지원. 4K 게이밍 및 고해상도 작업에 탁월.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "AMD",
+      "gpu_chip": "Navi 31",
+      "vram_size_gb": 24,
+      "vram_type": "GDDR6",
+      "tdp_w": 355,
+      "length_mm": 287,
+      "power_connectors": "2x 8-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 16,
+      "display_outputs": "2x DisplayPort 2.1, 1x HDMI 2.1, 1x USB-C",
+      "tdmark_timespy_score": 20000,
+      "dlss_supported": false,
+      "dlss_version": null,
+      "fsr_supported": true,
+      "fsr_version": "3.0",
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 1000000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "gpu",
+      "brand": "AMD",
+      "model": "Radeon RX 7600",
+      "description": "AMD RDNA 3 아키텍처 기반 입문급 GPU. 8GB GDDR6 메모리. 효율적인 전력 소비와 FSR 지원으로 1080p 게이밍에 적합.",
+      "is_active": true
+    },
+    "spec": {
+      "chip_manufacturer": "AMD",
+      "gpu_chip": "Navi 33",
+      "vram_size_gb": 8,
+      "vram_type": "GDDR6",
+      "tdp_w": 165,
+      "length_mm": 200,
+      "power_connectors": "1x 8-pin",
+      "pcie_version": "4.0",
+      "pcie_lanes": 8,
+      "display_outputs": "3x DisplayPort 2.1, 1x HDMI 2.1",
+      "tdmark_timespy_score": 8000,
+      "dlss_supported": false,
+      "dlss_version": null,
+      "fsr_supported": true,
+      "fsr_version": "3.0",
+      "ray_tracing_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 310000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

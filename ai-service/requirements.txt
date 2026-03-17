@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+openai==1.30.1
+redis[asyncio]==5.0.4
+pydantic==2.7.1
+pydantic-settings==2.3.1
+jinja2==3.1.4
+httpx==0.27.0
+# anthropic은 선택사항 — Claude fallback 필요 시 주석 해제
+# anthropic==0.28.0

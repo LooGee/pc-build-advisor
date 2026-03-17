@@ -1,0 +1,138 @@
+[
+  {
+    "component": {
+      "category": "cooler",
+      "brand": "Noctua",
+      "model": "NH-D15",
+      "description": "Noctua의 최상위 공랭 CPU 쿨러. 듀얼 타워 설계와 두 개의 NF-A15 팬으로 250W TDP까지 처리. 탁월한 정숙성과 냉각 성능.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "Air",
+      "supported_sockets": ["LGA1700", "LGA1200", "AM5", "AM4"],
+      "is_air_cooler": true,
+      "is_liquid_cooler": false,
+      "radiator_size": null,
+      "tdp_rating_w": 250,
+      "height_mm": 165,
+      "width_mm": 150,
+      "depth_mm": 135,
+      "fan_count": 2,
+      "fan_size_mm": 140,
+      "fan_speed_rpm_max": 1500,
+      "noise_level_dba": 24.6,
+      "heat_pipes": 6,
+      "rgb": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 120000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "cooler",
+      "brand": "be quiet!",
+      "model": "Dark Rock Pro 4",
+      "description": "be quiet!의 프리미엄 공랭 쿨러. 듀얼 타워 설계와 극저소음 설계. 250W TDP 지원으로 고성능 CPU도 조용하게 냉각.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "Air",
+      "supported_sockets": ["LGA1700", "AM5", "AM4"],
+      "is_air_cooler": true,
+      "is_liquid_cooler": false,
+      "radiator_size": null,
+      "tdp_rating_w": 250,
+      "height_mm": 163,
+      "width_mm": 136,
+      "depth_mm": 145,
+      "fan_count": 2,
+      "fan_size_mm": 135,
+      "fan_speed_rpm_max": 1400,
+      "noise_level_dba": 24.3,
+      "heat_pipes": 7,
+      "rgb": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 90000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "cooler",
+      "brand": "Corsair",
+      "model": "iCUE H150i Elite Capellix",
+      "description": "Corsair 360mm 일체형 수냉 쿨러. 화려한 RGB LED와 강력한 냉각 성능. 고전력 CPU를 낮은 온도로 유지하며 시스템 심미성 향상.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "Liquid AIO",
+      "supported_sockets": ["LGA1700", "LGA1200", "AM5", "AM4"],
+      "is_air_cooler": false,
+      "is_liquid_cooler": true,
+      "radiator_size": "360mm",
+      "tdp_rating_w": 350,
+      "height_mm": null,
+      "width_mm": null,
+      "depth_mm": null,
+      "fan_count": 3,
+      "fan_size_mm": 120,
+      "fan_speed_rpm_max": 2400,
+      "noise_level_dba": 37,
+      "heat_pipes": null,
+      "rgb": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 180000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "cooler",
+      "brand": "ID-COOLING",
+      "model": "SE-224-XT ARGB",
+      "description": "ID-COOLING 가성비 공랭 쿨러. ARGB 팬 내장으로 화려한 RGB 연출. 180W TDP 지원으로 중급 CPU 냉각에 적합한 경제적인 선택.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "Air",
+      "supported_sockets": ["LGA1700", "LGA1200", "AM5", "AM4"],
+      "is_air_cooler": true,
+      "is_liquid_cooler": false,
+      "radiator_size": null,
+      "tdp_rating_w": 180,
+      "height_mm": 155,
+      "width_mm": 121,
+      "depth_mm": 76,
+      "fan_count": 1,
+      "fan_size_mm": 120,
+      "fan_speed_rpm_max": 1800,
+      "noise_level_dba": 30.5,
+      "heat_pipes": 4,
+      "rgb": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 35000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

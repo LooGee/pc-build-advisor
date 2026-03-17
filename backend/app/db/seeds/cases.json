@@ -1,0 +1,138 @@
+[
+  {
+    "component": {
+      "category": "case",
+      "brand": "Lian Li",
+      "model": "PC-O11 Dynamic EVO",
+      "description": "Lian Li의 인기 미드타워 케이스. 전면 강화유리와 넓은 내부 공간으로 수냉 및 고성능 빌드에 최적. ATX/Micro-ATX/Mini-ITX 지원.",
+      "is_active": true
+    },
+    "spec": {
+      "supported_form_factors": ["ATX", "Micro-ATX", "Mini-ITX"],
+      "max_gpu_length_mm": 420,
+      "max_cpu_cooler_height_mm": 167,
+      "form_factor_case": "Mid Tower",
+      "color": "Black",
+      "has_tempered_glass": true,
+      "front_panel_usb": ["USB 3.0 x2", "USB-C 3.2 Gen2 x1"],
+      "drive_bays_35": 2,
+      "drive_bays_25": 4,
+      "radiator_support_top_mm": 360,
+      "radiator_support_front_mm": 360,
+      "radiator_support_side_mm": 360,
+      "pre_installed_fans": 0,
+      "max_fans": 10,
+      "dimensions_mm": "465 x 285 x 459"
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 150000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "case",
+      "brand": "Fractal Design",
+      "model": "Define 7",
+      "description": "Fractal Design의 정숙성 특화 미드타워 케이스. 방음 패드와 모듈식 내부 구조. 조용한 고성능 시스템 구성에 이상적.",
+      "is_active": true
+    },
+    "spec": {
+      "supported_form_factors": ["ATX", "Micro-ATX", "Mini-ITX"],
+      "max_gpu_length_mm": 315,
+      "max_cpu_cooler_height_mm": 185,
+      "form_factor_case": "Mid Tower",
+      "color": "Black",
+      "has_tempered_glass": false,
+      "front_panel_usb": ["USB 3.0 x2", "USB-C 3.1 Gen2 x1"],
+      "drive_bays_35": 4,
+      "drive_bays_25": 3,
+      "radiator_support_top_mm": 360,
+      "radiator_support_front_mm": 360,
+      "radiator_support_side_mm": null,
+      "pre_installed_fans": 3,
+      "max_fans": 9,
+      "dimensions_mm": "543 x 240 x 474"
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 180000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "case",
+      "brand": "NZXT",
+      "model": "H510",
+      "description": "NZXT의 심플하고 세련된 디자인의 미드타워 케이스. 강화유리 측면 패널과 깔끔한 케이블 관리. 입문 및 중급 빌드에 인기.",
+      "is_active": true
+    },
+    "spec": {
+      "supported_form_factors": ["ATX", "Micro-ATX", "Mini-ITX"],
+      "max_gpu_length_mm": 381,
+      "max_cpu_cooler_height_mm": 165,
+      "form_factor_case": "Mid Tower",
+      "color": "Black",
+      "has_tempered_glass": true,
+      "front_panel_usb": ["USB 3.0 x1", "USB-C 3.1 Gen1 x1"],
+      "drive_bays_35": 2,
+      "drive_bays_25": 2,
+      "radiator_support_top_mm": 240,
+      "radiator_support_front_mm": 280,
+      "radiator_support_side_mm": null,
+      "pre_installed_fans": 2,
+      "max_fans": 4,
+      "dimensions_mm": "428 x 210 x 460"
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 110000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "case",
+      "brand": "Cooler Master",
+      "model": "Q300L",
+      "description": "Cooler Master의 컴팩트 미니타워 케이스. Micro-ATX/Mini-ITX 지원으로 공간 효율적. 독특한 사이드 패널 레이아웃으로 유연한 쿨링 구성.",
+      "is_active": true
+    },
+    "spec": {
+      "supported_form_factors": ["Micro-ATX", "Mini-ITX"],
+      "max_gpu_length_mm": 360,
+      "max_cpu_cooler_height_mm": 157,
+      "form_factor_case": "Mini Tower",
+      "color": "Black",
+      "has_tempered_glass": false,
+      "front_panel_usb": ["USB 3.0 x2"],
+      "drive_bays_35": 1,
+      "drive_bays_25": 2,
+      "radiator_support_top_mm": 240,
+      "radiator_support_front_mm": 240,
+      "radiator_support_side_mm": 120,
+      "pre_installed_fans": 1,
+      "max_fans": 5,
+      "dimensions_mm": "387 x 230 x 378"
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 60000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

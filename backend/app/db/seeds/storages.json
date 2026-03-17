@@ -1,0 +1,159 @@
+[
+  {
+    "component": {
+      "category": "storage",
+      "brand": "Samsung",
+      "model": "990 Pro 2TB NVMe",
+      "description": "삼성 최상위 PCIe 4.0 NVMe SSD. 순차 읽기 7,450 MB/s의 초고속 성능. 2TB 대용량으로 게임, 작업 데이터 모두 수납 가능.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "NVMe SSD",
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "capacity_gb": 2000,
+      "read_speed_mbs": 7450,
+      "write_speed_mbs": 6900,
+      "random_read_iops": 1400000,
+      "random_write_iops": 1550000,
+      "nand_type": "V-NAND TLC",
+      "dram_cache": true,
+      "tbw": 1200,
+      "warranty_years": 5
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 190000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "storage",
+      "brand": "WD",
+      "model": "Black SN850X 1TB NVMe",
+      "description": "WD의 게이밍 최적화 PCIe 4.0 NVMe SSD. 순차 읽기 7,300 MB/s의 고속 성능. PS5 공식 지원 및 게이밍 최적화 펌웨어 탑재.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "NVMe SSD",
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "capacity_gb": 1000,
+      "read_speed_mbs": 7300,
+      "write_speed_mbs": 6600,
+      "random_read_iops": 1000000,
+      "random_write_iops": 1100000,
+      "nand_type": "TLC",
+      "dram_cache": true,
+      "tbw": 600,
+      "warranty_years": 5
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 110000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "storage",
+      "brand": "Samsung",
+      "model": "870 EVO 1TB SATA",
+      "description": "삼성 SATA SSD 베스트셀러. 안정적인 성능과 뛰어난 내구성. 기존 HDD 교체 또는 보조 저장장치로 최적.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "SATA SSD",
+      "form_factor": "2.5 inch",
+      "interface": "SATA III",
+      "capacity_gb": 1000,
+      "read_speed_mbs": 560,
+      "write_speed_mbs": 530,
+      "random_read_iops": 98000,
+      "random_write_iops": 88000,
+      "nand_type": "V-NAND MLC",
+      "dram_cache": true,
+      "tbw": 600,
+      "warranty_years": 5
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 85000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "storage",
+      "brand": "Seagate",
+      "model": "Barracuda 4TB HDD",
+      "description": "Seagate 4TB 3.5인치 HDD. 대용량 데이터 저장에 최적화. 게임 라이브러리, 미디어 파일 보관을 위한 경제적인 대용량 솔루션.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "HDD",
+      "form_factor": "3.5 inch",
+      "interface": "SATA III",
+      "capacity_gb": 4000,
+      "read_speed_mbs": 190,
+      "write_speed_mbs": 190,
+      "random_read_iops": null,
+      "random_write_iops": null,
+      "rpm": 5400,
+      "cache_mb": 256,
+      "nand_type": null,
+      "dram_cache": false,
+      "tbw": null,
+      "warranty_years": 2
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 100000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "storage",
+      "brand": "Samsung",
+      "model": "990 Pro 1TB NVMe",
+      "description": "삼성 최상위 PCIe 4.0 NVMe SSD 1TB 버전. 순차 읽기 7,450 MB/s의 초고속 성능. 운영체제 및 주요 게임 설치에 최적.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "NVMe SSD",
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "capacity_gb": 1000,
+      "read_speed_mbs": 7450,
+      "write_speed_mbs": 6900,
+      "random_read_iops": 1400000,
+      "random_write_iops": 1550000,
+      "nand_type": "V-NAND TLC",
+      "dram_cache": true,
+      "tbw": 600,
+      "warranty_years": 5
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 100000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]

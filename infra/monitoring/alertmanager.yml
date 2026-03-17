@@ -1,0 +1,16 @@
+global:
+  smtp_smarthost: "smtp.gmail.com:587"
+  smtp_from: "alerts@pc-advisor.com"
+
+route:
+  group_by: ["alertname"]
+  group_wait: 10s
+  group_interval: 10m
+  repeat_interval: 1h
+  receiver: "web.hook"
+
+receivers:
+  - name: "web.hook"
+    email_configs:
+      - to: "admin@pc-advisor.com"
+        require_tls: true

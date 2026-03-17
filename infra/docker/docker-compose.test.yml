@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  postgres-test:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_DB: pc_advisor_test
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  redis-test:
+    image: redis:7-alpine
+    ports:
+      - "6380:6379"
+
+  backend-test:
+    build:
+      context: ../../backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://postgres:postgres@postgres-test:5433/pc_advisor_test
+      REDIS_URL: redis://redis-test:6379/0
+    depends_on:
+      postgres-test:
+        condition: service_healthy
+    command: pytest tests/ -v --tb=short

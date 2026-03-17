@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+.next/
+out/
+.npm
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Env
+.env
+*.env
+!.env.example
+
+# Docker
+.docker/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# DB
+*.sqlite3
+*.db
+
+# Terraform (AWS 인프라 상태 파일 — 시크릿 포함 가능)
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfvars
+
+# 인증서 / SSH 키
+*.pem
+*.key
+*.crt
+
+# Celery Beat 런타임 파일
+celerybeat-schedule
+celerybeat.pid
+
+# Playwright
+playwright-report/
+.playwright/
+test-results/

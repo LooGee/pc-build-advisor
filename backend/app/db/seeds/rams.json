@@ -1,0 +1,157 @@
+[
+  {
+    "component": {
+      "category": "ram",
+      "brand": "Samsung",
+      "model": "DDR5-5600 32GB (2x16GB)",
+      "description": "삼성 DDR5-5600 32GB 듀얼채널 키트. 안정적인 동작과 우수한 호환성. Intel 및 AMD AM5 플랫폼 모두 지원.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "DDR5",
+      "speed_mhz": 5600,
+      "capacity_per_stick_gb": 16,
+      "sticks_count": 2,
+      "total_capacity_gb": 32,
+      "cas_latency": 40,
+      "timing": "40-39-39-76",
+      "voltage_v": 1.1,
+      "has_rgb": false,
+      "has_heatspreader": true,
+      "xmp_supported": true,
+      "expo_supported": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 120000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "ram",
+      "brand": "G.SKILL",
+      "model": "Trident Z5 RGB DDR5-6000 32GB (2x16GB)",
+      "description": "G.SKILL 고성능 DDR5-6000 32GB RGB 듀얼채널 키트. CL36 타이밍과 화려한 RGB 조명으로 성능과 심미성 모두 충족.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "DDR5",
+      "speed_mhz": 6000,
+      "capacity_per_stick_gb": 16,
+      "sticks_count": 2,
+      "total_capacity_gb": 32,
+      "cas_latency": 36,
+      "timing": "36-36-36-96",
+      "voltage_v": 1.35,
+      "has_rgb": true,
+      "has_heatspreader": true,
+      "xmp_supported": true,
+      "expo_supported": true
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 160000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "ram",
+      "brand": "Samsung",
+      "model": "DDR5-4800 16GB (2x8GB)",
+      "description": "삼성 DDR5-4800 16GB 듀얼채널 입문 키트. DDR5 플랫폼 입문에 적합한 기본 구성. 안정적인 동작 보장.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "DDR5",
+      "speed_mhz": 4800,
+      "capacity_per_stick_gb": 8,
+      "sticks_count": 2,
+      "total_capacity_gb": 16,
+      "cas_latency": 40,
+      "timing": "40-39-39-76",
+      "voltage_v": 1.1,
+      "has_rgb": false,
+      "has_heatspreader": false,
+      "xmp_supported": false,
+      "expo_supported": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 65000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "ram",
+      "brand": "G.SKILL",
+      "model": "Ripjaws V DDR4-3200 32GB (2x16GB)",
+      "description": "G.SKILL DDR4-3200 32GB 듀얼채널 키트. CL16 타이밍으로 DDR4 플랫폼 최적 성능. AM4 및 LGA1700 DDR4 메인보드 호환.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "DDR4",
+      "speed_mhz": 3200,
+      "capacity_per_stick_gb": 16,
+      "sticks_count": 2,
+      "total_capacity_gb": 32,
+      "cas_latency": 16,
+      "timing": "16-18-18-38",
+      "voltage_v": 1.35,
+      "has_rgb": false,
+      "has_heatspreader": true,
+      "xmp_supported": true,
+      "expo_supported": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 85000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  },
+  {
+    "component": {
+      "category": "ram",
+      "brand": "Samsung",
+      "model": "DDR4-3200 16GB (2x8GB)",
+      "description": "삼성 DDR4-3200 16GB 듀얼채널 입문 키트. 안정적인 호환성과 합리적인 가격. DDR4 기반 가성비 빌드에 최적.",
+      "is_active": true
+    },
+    "spec": {
+      "type": "DDR4",
+      "speed_mhz": 3200,
+      "capacity_per_stick_gb": 8,
+      "sticks_count": 2,
+      "total_capacity_gb": 16,
+      "cas_latency": 22,
+      "timing": "22-22-22-52",
+      "voltage_v": 1.2,
+      "has_rgb": false,
+      "has_heatspreader": false,
+      "xmp_supported": false,
+      "expo_supported": false
+    },
+    "prices": [
+      {
+        "source": "danawa",
+        "price_krw": 40000,
+        "in_stock": true,
+        "product_url": null
+      }
+    ]
+  }
+]
